@@ -1,0 +1,10 @@
+C:\Users\31412\Desktop\DataParser\DataParser\obj\Debug\DataParser.csprojAssemblyReference.cache
+C:\Users\31412\Desktop\DataParser\DataParser\obj\Debug\DataParser.csproj.CoreCompileInputs.cache
+C:\Users\31412\Desktop\DataParser\DataParser\bin\Debug\DataParser.exe.config
+C:\Users\31412\Desktop\DataParser\DataParser\bin\Debug\DataParser.exe
+C:\Users\31412\Desktop\DataParser\DataParser\bin\Debug\DataParser.pdb
+C:\Users\31412\Desktop\DataParser\DataParser\obj\Debug\DataParser.exe
+C:\Users\31412\Desktop\DataParser\DataParser\obj\Debug\DataParser.pdb
+C:\Users\31412\Desktop\DataParser\DataParser\bin\Debug\AngleSharp.dll
+C:\Users\31412\Desktop\DataParser\DataParser\bin\Debug\AngleSharp.xml
+C:\Users\31412\Desktop\DataParser\DataParser\obj\Debug\DataParser.csproj.CopyComplete
